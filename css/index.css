@@ -1,0 +1,81 @@
+#title{
+    background-color:cornsilk;
+    
+}
+#app{
+    background-color:cornsilk;
+    box-shadow: 0px 1px 15px 0px black;
+    z-index: 998;
+}
+.inside{
+    width: 100%;
+}
+.navbar{
+    box-shadow: 0px 1px 15px 0px black;
+    z-index: 999;
+}
+.row{
+    margin-right: 0px;
+}
+.div2{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.img{
+    width: 100%;
+
+}
+.form{
+    width: 70%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    padding: 15px;
+    background-color: rgb(190, 229, 229);
+}
+.form:hover{
+    box-shadow: 0px 5px 10px 0px black;
+}
+.nav-item{
+    font-size: 1.3rem;
+}
+h1{
+    font-size: 2.7rem;
+}
+p{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.5rem;
+}
+.shift{
+    margin-bottom: 2%;
+}
+.app{
+    margin:3% auto;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+.container-fluid{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
